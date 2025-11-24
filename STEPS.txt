@@ -1,0 +1,9 @@
+1) Running the Student Assessment Automation App of Python Streamlit using a Windows Batch file ( Run_StudentAssessment.bat )
+2) Lauching the Streamlit App on the Microsoft Edge Browser ( DemoEnhancements.py )
+3) Logging in as OMOTEC ADMIN into the Student Assessment Automation App
+4) Sequence of Student Assessment Form ( Manual Editing )
+5) Show Completed Assessment Forms Sheet and also Uploading CSV Sheets in Ad Hoc
+6) Display of Assessment Data using Multiple BAR Chart Plots or PIE Charts or individual Charts
+7) Filtering Data with each Column in the Assessment Forms Sheet
+8) Display of Graphs on Grade Wise Comparison
+9) Display of Graphs on Bloom's Taxonomy ( Understand / Remember / Analyze / Apply / Create )
